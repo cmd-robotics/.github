@@ -1,4 +1,4 @@
-Welcome to the **Asha Rover** org!
+Welcome to the **cmd-robotics** org!
 
 Here's a general plan for current and future git projects:
 
